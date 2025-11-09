@@ -4,6 +4,6 @@ Three years ago, I first planned to learn R but later gave up. Now I want to pic
 
 ## Star History
 
-![Stars](https://img.shields.io/github/stars/zhiwenhu471/R-medical-data-analysis?style=for-the-badge&label=Stars&color=blue)
+![Stars](https://img.shields.io/github/stars/zhiwenhu471/R-medical-data-analysis?style=for-the-badge&label=Stars&color=red)
 ![Forks](https://img.shields.io/github/forks/zhiwenhu471/R-medical-data-analysis?style=for-the-badge&label=Forks&color=green)
-![Issues](https://img.shields.io/github/forks/zhiwenhu471/R-medical-data-analysis?style=for-the-badge&label=Forks&color=red)
+![Issues](https://img.shields.io/github/forks/zhiwenhu471/R-medical-data-analysis?style=for-the-badge&label=Forks&color=blue)
